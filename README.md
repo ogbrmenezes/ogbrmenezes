@@ -10,7 +10,7 @@
 - 💻Programador Jr 
 - 🏛 Análise e Desenvolvimento de Sistema
 - 📚 Estudando: Front-end
-- 🎯 Se depender do meu "Empenho conquistaremos juntos grandes resultados"
+- 🎯 Se depender do meu empenho conquistaremos juntos grandes resultados
 
   
   <div>
