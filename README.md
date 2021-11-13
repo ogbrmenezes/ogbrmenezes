@@ -7,9 +7,9 @@
 
 - 🔎 Procuro: Estágio 
 - ☕ Seja Bem vindo  
-- 💻Programador Jr 
+- 💻Dev - Front-End
 - 🏛 Análise e Desenvolvimento de Sistema
-- 📚 Estudando: Front-end
+- 📚  Me especializando em: Front-end & Back-End
 - 🎯 Se depender do meu empenho conquistaremos juntos grandes resultados
 
   
