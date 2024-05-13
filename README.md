@@ -5,7 +5,7 @@
 </p>
 
 
-- 🔎 Procuro: Estágio 
+- 🔎 Procuro: Dev Web
 - ☕ Seja Bem vindo  
 - 💻Dev - Front-End
 - 🏛 Análise e Desenvolvimento de Sistema
