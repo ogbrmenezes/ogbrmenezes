@@ -7,7 +7,7 @@
 
 - 🔎 Procuro: Dev Web
 - ☕ Seja Bem vindo  
-- 💻Dev - Front-End
+- 💻Dev - Front&Back
 - 🏛 Análise e Desenvolvimento de Sistema
 - 📚  Me especializando em: Front-end & Back-End
 - 🎯 Se depender do meu empenho conquistaremos juntos grandes resultados
