@@ -5,10 +5,10 @@
 </p>
 
 
-- 🔎 Procuro: Dev Web
+- 🔎 Procuro: Frontend - DEV
 - ☕ Seja Bem vindo  
 - 💻Dev - Front&Back
-- 🏛 Análise e Desenvolvimento de Sistema
+- 🏛 Formado em Ads
 - 📚  Me especializando em: Front-end & Back-End
 - 🎯 Se depender do meu empenho conquistaremos juntos grandes resultados
 
