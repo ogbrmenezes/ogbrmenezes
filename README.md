@@ -5,7 +5,7 @@
 </p>
 
 
-- 🔎 Procuro: Frontend - DEV
+- 🔎 Procuro: DEV 
 - ☕ Seja Bem vindo  
 - 💻Dev - Front&Back
 - 🏛 Formado em Ads
