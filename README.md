@@ -5,11 +5,11 @@
 </p>
 
 
-- 🔎 Procuro: DEV 
+- 🔎 Procuro: Oportunidade como dev python ou Frontend
 - ☕ Seja Bem vindo  
-- 💻Dev - Front&Back
+- 💻Dev - Front&Python
 - 🏛 Formado em Ads
-- 📚  Me especializando em: Front-end & Back-End
+- 📚 Atualmente no setor de AQS da empresa
 - 🎯 Se depender do meu empenho conquistaremos juntos grandes resultados
 
   
