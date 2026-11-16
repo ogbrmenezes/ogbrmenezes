@@ -5,10 +5,10 @@
 </p>
 
 
-- 🔎 Procuro: Oportunidade como dev python ou Frontend
+- 🔎 Procuro: Oportunidade como dev Frontend
 - ☕ Seja Bem vindo  
 - 💻Dev - Front&Python
-- 🏛 Formado em Ads
+- 🏛 Formado em Ads, Pós Graduação em : Fullstack 
 - 📚 Atualmente no setor de AQS da empresa
 - 🎯 Se depender do meu empenho conquistaremos juntos grandes resultados
 
